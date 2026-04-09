@@ -84,3 +84,4 @@
 ## 7. 使用边界
 
 当前系统只完成了目录、技能说明与基础台账的搭建，尚未自动产出真正的作者风格分析结果。后续需要在补充语料、revision pairs 或作者明确反馈后，逐步完善 `style_profile.md`、`negative_rules.md` 和 `task_preferences.md`。
+
